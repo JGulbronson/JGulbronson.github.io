@@ -24,3 +24,8 @@
 .job-info {
   margin-bottom: 5px;
 }
+
+.job-title {
+  font-size: large;
+  margin-bottom: -3px;
+}
