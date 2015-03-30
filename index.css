@@ -17,4 +17,10 @@
 
 .header {
   font-size: large;
+  text-decoration: underline;
+  margin-bottom: 5px;
+}
+
+.job-info {
+  margin-bottom: 5px;
 }
